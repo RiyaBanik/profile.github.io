@@ -23,6 +23,7 @@ const ReadOnlyRow = ({ contact }) => {
           width="50%"
           marginRight="10px"
           marginLeft="10px"
+          borderRadius="5px"
         >
           {contact.login.username}
         </Box>{" "}
@@ -43,6 +44,7 @@ const ReadOnlyRow = ({ contact }) => {
           width="50%"
           marginRight="10px"
           marginLeft="10px"
+          borderRadius="5px"
         >
           {contact.gender}
         </Box>{" "}
@@ -63,6 +65,7 @@ const ReadOnlyRow = ({ contact }) => {
           width="50%"
           marginRight="10px"
           marginLeft="10px"
+          borderRadius="5px"
         >
           {moment(contact.dob.date).format("DD/MM/YYYY")}
         </Box>{" "}
@@ -83,6 +86,7 @@ const ReadOnlyRow = ({ contact }) => {
           width="50%"
           marginRight="10px"
           marginLeft="10px"
+          borderRadius="5px"
         >
           {contact.phone}
         </Box>{" "}
@@ -103,6 +107,7 @@ const ReadOnlyRow = ({ contact }) => {
           width="50%"
           marginRight="10px"
           marginLeft="10px"
+          borderRadius="5px"
         >
           {contact.location.city} {contact.location.state}
           {"   "}
@@ -125,6 +130,7 @@ const ReadOnlyRow = ({ contact }) => {
           width="50%"
           marginRight="10px"
           marginLeft="10px"
+          borderRadius="5px"
         >
           <img
             src="https://img.icons8.com/external-nawicon-glyph-nawicon/64/000000/external-email-communication-nawicon-glyph-nawicon-2.png"
