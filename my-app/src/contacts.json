@@ -1,0 +1,58 @@
+[
+    {
+    "gender": "male",
+    "name": {
+    "title": "Mr",
+    "first": "Iver",
+    "last": "Magnusson"
+    },
+    "location": {
+    "street": {
+    "number": 3297,
+    "name": "Østensjø terrasse"
+    },
+    "city": "Høle",
+    "state": "Rogaland",
+    "country": "Norway",
+    "postcode": "2418",
+    "coordinates": {
+    "latitude": "54.9446",
+    "longitude": "-15.0020"
+    },
+    "timezone": {
+    "offset": "-3:30",
+    "description": "Newfoundland"
+    }
+    },
+    "email": "iver.magnusson@example.com",
+    "login": {
+    "uuid": "6845f5a9-922b-439f-bc1f-a0a98ea7d5f2",
+    "username": "beautifulzebra664",
+    "password": "scandinavian",
+    "salt": "JkkSnJ8U",
+    "md5": "6368979adb01b5b2a14cd4f37cd05dac",
+    "sha1": "0bb5b8b7b335190aecc3c97ed7a2ce394b153648",
+    "sha256": "a0dc2dcbfe347d9df8cb05e3cf96acdbc1c221e890ef4288e0483cb4bf8d6bd6"
+    },
+    "dob": {
+    "date": "1945-05-29T07:43:55.988Z",
+    "age": 77
+    },
+    "registered": {
+    "date": "2013-05-31T10:41:03.911Z",
+    "age": 9
+    },
+    "phone": "69648391",
+    "cell": "43120811",
+    "id": {
+    "name": "FN",
+    "value": "29054537199"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    },
+    "nat": "NO"
+    }
+    ]
